@@ -12,7 +12,9 @@
 > 5、新增全志平台R1S、香橙派Zero3等机型的工作流<br>
 > 6、新增用户预设置pppoe拨号功能<br>
 > 7、新增树莓派①②③④⑤<br>
-> 8、新增第三方软件包的集成功能 https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
+> 8、新增第三方软件包的集成功能 https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209 <br>
+> 9、MT2500 和 MT6000 支持第三方插件的按需集成
+> 10、新增:斐讯N1 的工作流<br>
 
 
 ## 如何查询imm仓库内有哪些插件
@@ -20,7 +22,8 @@ https://mirrors.sjtug.sjtu.edu.cn/immortalwrt/releases/24.10.2/packages/x86_64/l
 ## 如何查询imm仓库外目前可以集成哪些插件
 https://github.com/wukongdaily/store/tree/master/run
 > 具体方法 https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
-## 第三方插件集成的原理详见以下视频
+## 【视频教程】如何集成第三方插件？
+https://www.youtube.com/watch?v=KN6AJYV1hBI <br>
 https://www.youtube.com/watch?v=7i6BQeitUtE
 
 ## 旁路由的用户必读
@@ -56,6 +59,8 @@ https://www.youtube.com/watch?v=7i6BQeitUtE
 https://wkdaily.cpolar.cn/15
 # 🌟鸣谢
 ### https://github.com/immortalwrt
+### https://github.com/ophub/flippy-openwrt-actions
+### https://github.com/ophub/amlogic-s9xxx-openwrt
 ### https://github.com/sirpdboy
 ### https://github.com/wukongdaily/ib-overlay
 
